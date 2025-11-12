@@ -1,3 +1,4 @@
+```json
 {
   "events": [
     {
@@ -29,6 +30,177 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1010,
+      "category": "health",
+      "title": "Morning Yoga in the Park",
+      "description": "A gentle yoga session suitable for all levels.",
+      "location": "Sunrise Park",
+      "date": "April 10, 2022",
+      "time": "08:00",
+      "organizer": "Lena Sol"
+    },
+    {
+      "id": 1112,
+      "category": "education",
+      "title": "Intro to Composting",
+      "description": "Learn how to turn kitchen waste into nutrient-rich compost.",
+      "location": "Greenway Community Center",
+      "date": "May 05, 2022",
+      "time": "14:00",
+      "organizer": "Dr. Ivy Turner"
+    },
+    {
+      "id": 1314,
+      "category": "music",
+      "title": "Local Bands Night",
+      "description": "Showcase of talented local musicians and bands.",
+      "location": "Community Stage",
+      "date": "June 18, 2022",
+      "time": "19:30",
+      "organizer": "Rex Harper"
+    },
+    {
+      "id": 1516,
+      "category": "charity",
+      "title": "Winter Clothing Drive",
+      "description": "Donate warm clothing for families in need.",
+      "location": "Downtown Shelter",
+      "date": "December 02, 2022",
+      "time": "09:00",
+      "organizer": "Hope Collective"
+    },
+    {
+      "id": 1718,
+      "category": "art",
+      "title": "Street Mural Workshop",
+      "description": "Collaborative mural painting led by local artists.",
+      "location": "Old Mill Alley",
+      "date": "August 06, 2022",
+      "time": "13:00",
+      "organizer": "Maya Rivera"
+    },
+    {
+      "id": 1920,
+      "category": "technology",
+      "title": "Intro to Web Accessibility",
+      "description": "Hands-on session about making websites accessible to all.",
+      "location": "Tech Hub Room B",
+      "date": "September 09, 2022",
+      "time": "16:00",
+      "organizer": "Aiden Park"
+    },
+    {
+      "id": 2122,
+      "category": "sports",
+      "title": "Community 5K Run",
+      "description": "Friendly 5K run around the river loop.",
+      "location": "Riverside Track",
+      "date": "October 01, 2022",
+      "time": "07:30",
+      "organizer": "Pace Makers Club"
+    },
+    {
+      "id": 2324,
+      "category": "food",
+      "title": "Weekend Farmers Market",
+      "description": "Fresh produce, baked goods, and local crafts.",
+      "location": "Market Square",
+      "date": "November 12, 2022",
+      "time": "09:00",
+      "organizer": "Market Guild"
+    },
+    {
+      "id": 2526,
+      "category": "sustainability",
+      "title": "Solar Home Workshop",
+      "description": "Practical tips for installing small solar setups at home.",
+      "location": "Eco Center",
+      "date": "March 03, 2023",
+      "time": "15:00",
+      "organizer": "Sunny Solutions"
+    },
+    {
+      "id": 2728,
+      "category": "animal welfare",
+      "title": "Dog Social & Training",
+      "description": "Socialization and basic obedience tips for dogs.",
+      "location": "Paws Park",
+      "date": "April 21, 2023",
+      "time": "10:30",
+      "organizer": "Canine Crew"
+    },
+    {
+      "id": 2930,
+      "category": "education",
+      "title": "Coding for Kids: Scratch",
+      "description": "Introductory coding workshop using Scratch for ages 7-12.",
+      "location": "Library Learning Lab",
+      "date": "May 27, 2023",
+      "time": "11:00",
+      "organizer": "Learn & Play"
+    },
+    {
+      "id": 3132,
+      "category": "health",
+      "title": "Community Health Screening",
+      "description": "Free blood pressure and basic health checks.",
+      "location": "Wellness Center",
+      "date": "June 15, 2023",
+      "time": "09:30",
+      "organizer": "HealthFirst"
+    },
+    {
+      "id": 3334,
+      "category": "art",
+      "title": "Open Mic Poetry",
+      "description": "An evening of spoken word and community readings.",
+      "location": "Café Aurora",
+      "date": "July 08, 2023",
+      "time": "18:00",
+      "organizer": "Verse Collective"
+    },
+    {
+      "id": 3536,
+      "category": "charity",
+      "title": "Fundraiser Gala",
+      "description": "Annual gala to raise funds for local youth programs.",
+      "location": "Grand Hall",
+      "date": "September 30, 2023",
+      "time": "19:00",
+      "organizer": "Youth Future Fund"
+    },
+    {
+      "id": 3738,
+      "category": "technology",
+      "title": "Women in Tech Panel",
+      "description": "Panel discussion featuring women leaders in technology.",
+      "location": "Innovation Center",
+      "date": "October 20, 2023",
+      "time": "14:30",
+      "organizer": "TechBridge"
+    },
+    {
+      "id": 3940,
+      "category": "music",
+      "title": "Summer Jazz Brunch",
+      "description": "Live jazz with brunch specials by local chefs.",
+      "location": "Harbor Bistro",
+      "date": "August 13, 2023",
+      "time": "11:00",
+      "organizer": "Blue Note Events"
+    },
+    {
+      "id": 4142,
+      "category": "sustainability",
+      "title": "Urban Tree Planting",
+      "description": "Planting native trees to improve urban green cover.",
+      "location": "Maple Avenue",
+      "date": "November 05, 2023",
+      "time": "10:00",
+      "organizer": "GreenCity Volunteers"
     }
   ]
 }
+```
