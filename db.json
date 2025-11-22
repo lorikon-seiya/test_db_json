@@ -4,20 +4,7 @@
       "id": 123,
       "category": "animal welfare",
       "title": "动态 segment 全自动匹配 是什么",
-      "description": "下面给你一个 **完全清晰、深入但易懂** 的解释，帮助你彻底理解：
-
-# 🌟 什么是“动态 segment 全自动匹配”？
-
-这是指 **Vue Router 在 redirect 重定向时，能够自动把原 URL 中的动态参数（params）继续传递到新的路由中，而不需要你手动写出来**。
-
-也就是：
-你**不需要手动提取 ID、子路径、参数**，Vue Router 会自动完成这些工作。
-
----
-
-# 📌 什么叫动态 segment（动态路径片段）？
-
-在 URL 中带 `:` 的部分，例如：
+      "description": "🌟 什么是“动态 segment 全自动匹配”？这是指 **Vue Router 在 redirect 重定向时，能够自动把原 URL 中的动态参数（params）继续传递到新的路由中，而不需要你手动写出来**。也就是：你**不需要手动提取 ID、子路径、参数**，Vue Router 会自动完成这些工作。📌 什么叫动态 segment（动态路径片段）？在 URL 中带 `:` 的部分，例如：
 
 ```
 /event/:id
@@ -129,19 +116,7 @@ params: { id: to.params.id }
 
 # 📌 总结（一句话）
 
-> **动态 segment 全自动匹配，就是 Vue Router 会自动识别原 URL 中的动态参数或剩余路径，并在 redirect 中自动带到新的路径，而不需要开发者手动处理。**
-
----
-
-# 如果你愿意，我还可以为你提供：
-
-🔹 动态路由 params、query、wildcard 的对比
-🔹 redirect 的底层机制解释
-🔹 结合嵌套路由的完整例子
-🔹 一个 playground 可运行示例
-
-告诉我你想看哪一个？
-",
+> **动态 segment 全自动匹配，就是 Vue Router 会自动识别原 URL 中的动态参数或剩余路径，并在 redirect 中自动带到新的路径，而不需要开发者手动处理。**",
       "location": "Meow Town",
       "date": "January 28, 2022",
       "time": "12:00",
