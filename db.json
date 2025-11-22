@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 123,
+      "id": 123
       "category": "animal welfare",
       "title": "动态 segment 全自动匹配 是什么",
       "description": "动态 segment 全自动匹配，就是 Vue Router 会自动识别原 URL 中的动态参数或剩余路径，并在 redirect 中自动带到新的路径，而不需要开发者手动处理。",
