@@ -7,8 +7,7 @@
       "description": "动态 segment 全自动匹配，就是 Vue Router 会自动识别原 URL 中的动态参数或剩余路径，并在 redirect 中自动带到新的路径，而不需要开发者手动处理。",
       "location": "Meow Town",
       "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "tim
     },
     {
       "id": 456,
